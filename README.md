@@ -1,2 +1,2 @@
-# Amazonclone
-This is amazon clone website using HTML5 &amp; CSS3
+# AmazonClone
+This is a Amazon Clone website using HTML5 &amp; CSS3.
