@@ -21,8 +21,8 @@ This is a simple front-end clone of the Amazon website, built using **HTML**, **
 
 ---
 
-## 📸 Demo
-
+## 🎥 Demo
+![Video demo](https://github.com/user-attachments/assets/bcf8d526-91b8-4c3c-b1ba-34e2fff1b0b3)
 
 
 ## 🚀 Getting Started
