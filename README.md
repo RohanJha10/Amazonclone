@@ -18,9 +18,12 @@ This is a simple front-end clone of the Amazon website, built using **HTML**, **
 
 - HTML5
 - CSS3
-- 
+  
 ---
+###  UI Screenshot
 
-🙋‍♂️ Author
-Rohan Kumar Jha
-🔗 GitHub Profile
+![Page 1](amazon1.png)
+![Page 2](Amazon2.png)
+
+
+
