@@ -22,8 +22,8 @@ This is a simple front-end clone of the Amazon website, built using **HTML**, **
 ---
 ###  UI Screenshot
 
-![amazon 1](amazon 1.png)
-![amazon 2](amazon 2.png)
+![amazon1](amazon1.png)
+![amazon2](amazon2.png)
 
 
 
